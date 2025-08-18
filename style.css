@@ -26,9 +26,6 @@
 	color: #000;
 }
 
-.content p {
-}
-
 .back_to_main {
 	margin-top: 20px;
 	font-size: 20px;
@@ -38,8 +35,6 @@
 .blog_list {
 	display: flex;
 	flex-direction: column;
-	list-style: disc;   /* tekrar aç */
-	padding-left: 20px; /* işaretlerin görünmesi için boşluk bırak */
 }
 
 .blog_list li {
