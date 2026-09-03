@@ -73,7 +73,6 @@ Herkese açık işletme kayıtlarından ilgili firmaları bulan, potansiyel mü�
 ## İletişim
 
 - **E-posta:** [oguzharunb@gmail.com](mailto:oguzharunb@gmail.com)
-- **Telefon:** [+90 551 184 0232](tel:+905511840232)
 - **LinkedIn:** [linkedin.com/in/oguzharunb](https://www.linkedin.com/in/oguzharunb/)
 - **Portföy:** [oguzharunb.com.tr](https://oguzharunb.com.tr)
 - **GitHub:** [github.com/oguzharunb](https://github.com/oguzharunb/)
