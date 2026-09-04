@@ -2,11 +2,12 @@
 
 Erzurum'da yaşayan bir **Otomasyon ve Full-Stack Yazılım Geliştiricisiyim**.
 
-Tekrarlanan iş süreçlerini güvenilir ve verimli dijital iş akışlarına dönüştüren yazılımlar geliştiriyorum. Doküman işleme, CRM altyapıları, tavsiye sistemleri, müşteri adayı oluşturma otomasyonları, API entegrasyonları ve işletmelere özel B2B uygulamalar üzerinde deneyim sahibiyim.
+Personellerin her gün tekrar ederek yürüttüğü B2B süreçlerini otomatikleştiriyor, firmaların zaman ve operasyon maliyetlerinden tasarruf etmesini sağlayan yazılımlar geliştiriyorum. Doküman işleme, CRM altyapıları, tavsiye sistemleri, müşteri adayı oluşturma otomasyonları, API entegrasyonları ve işletmelere özel B2B uygulamalar geliştirerek manuel işleri güvenilir dijital iş akışlarına dönüştürüyorum.
 
 ## Neler Yapıyorum?
 
-- Operasyon yükü yüksek işletmeler için otomasyon sistemleri tasarlıyorum.
+- Personellerin tekrar eden B2B operasyonlarını analiz edip otomasyon sistemlerine dönüştürüyorum.
+- Firmaların zaman ve maliyet tasarrufu elde etmesini sağlayan iş akışları tasarlıyorum.
 - Full-stack uygulamalar ve şirket içi yönetim araçları geliştiriyorum.
 - Yapılandırılmamış belgeleri işlenebilir ve düzenli verilere dönüştürüyorum.
 - API entegrasyonları ve kural tabanlı karar sistemleri kuruyorum.
@@ -20,7 +21,7 @@ Tekrarlanan iş süreçlerini güvenilir ve verimli dijital iş akışlarına d�
 
 - Mevcut platformlar ve hazır altyapılar üzerinde e-ticaret projeleri geliştirdim.
 - Küçük ve orta ölçekli işletmelerin operasyonel ihtiyaçlarına yönelik B2B araçlar hazırladım.
-- Potansiyel müşteri keşfi, veri işleme ve kontrollü iletişim süreçleri için yeniden kullanılabilir otomasyon bileşenleri geliştirdim.
+- Personellerin yürüttüğü potansiyel müşteri keşfi, veri işleme ve kontrollü iletişim süreçlerini otomatikleştiren yeniden kullanılabilir bileşenler geliştirdim.
 - İş ihtiyaçlarının belirlenmesinden geliştirme ve iyileştirme süreçlerine kadar ürün yaşam döngüsünün tamamını yönettim.
 
 ### Yazılım Geliştirici — Magnum Otomotiv
@@ -37,19 +38,19 @@ Tekrarlanan iş süreçlerini güvenilir ve verimli dijital iş akışlarına d�
 
 **Python · C++ · JavaScript**
 
-Kişiselleştirilmiş ürün satan işletmeler için geliştirilmiş bir otomasyon sistemi. Pazaryerlerinden gelen sipariş ve kişiselleştirme verilerini yapılandırılmış, üretime hazır çıktılara dönüştürür. Yeniden kullanılabilir şablonlar ve toplu işleme özellikleriyle manuel hazırlık sürecini önemli ölçüde azaltır.
+Kişiselleştirilmiş ürün satan işletmeler için geliştirilmiş bir otomasyon sistemi. Pazaryerlerinden gelen sipariş ve kişiselleştirme verilerini yapılandırılmış, üretime hazır çıktılara dönüştürür. Manuel hazırlık sürecini azaltarak personellerin zamanını ve işletmenin operasyon maliyetini düşürür.
 
 ### Kredi Tavsiye Sistemi
 
 **Python**
 
-Finansal PDF'lerden bilgi çıkaran, müşteri verilerini standartlaştıran ve şirket tarafından belirlenen kurallar üzerinden kredi tavsiyesi oluşturan doküman işleme ve karar destek sistemi.
+Personellerin finansal PDF'leri manuel inceleme ve veri giriş süreçlerini otomatikleştiren; müşteri verilerini standartlaştırıp şirket kuralları üzerinden kredi tavsiyesi oluşturan karar destek sistemi.
 
 ### Lydor Sales
 
 **JavaScript · Python**
 
-Herkese açık işletme kayıtlarından ilgili firmaları bulan, potansiyel müşterileri düzenleyip puanlayan ve kontrollü WhatsApp iletişim süreçlerini destekleyen bir B2B müşteri adayı oluşturma sistemi. Tekrarlanan araştırma işlerini azaltırken iletişim sürecinin yönetilebilir kalması amacıyla geliştirildi.
+Herkese açık işletme kayıtlarından ilgili firmaları bulan, potansiyel müşterileri düzenleyip puanlayan ve kontrollü WhatsApp iletişim süreçlerini destekleyen bir B2B müşteri adayı oluşturma sistemi. Tekrarlanan araştırma işlerini azaltarak personel zamanından tasarruf sağlar.
 
 ## Teknik Yetkinlikler
 
@@ -72,11 +73,11 @@ Herkese açık işletme kayıtlarından ilgili firmaları bulan, potansiyel mü�
 
 ## İletişim
 
-- **E-posta:** [oguzharunb@gmail.com](mailto:oguzharunb@gmail.com)
+- **E-posta:** [iletisim@oguzharunb.com.tr](mailto:iletisim@oguzharunb.com.tr)
 - **LinkedIn:** [linkedin.com/in/oguzharunb](https://www.linkedin.com/in/oguzharunb/)
 - **Portföy:** [oguzharunb.com.tr](https://oguzharunb.com.tr)
 - **GitHub:** [github.com/oguzharunb](https://github.com/oguzharunb/)
 
 ---
 
-Otomasyon sistemleri, full-stack ürünler ve gerçek operasyonel sorunları çözen yazılımlar geliştirebileceğim yeni fırsatlara açığım.
+Personellerin tekrar eden işlerini otomatikleştirerek firmalara zaman ve maliyet tasarrufu sağlayan otomasyon sistemleri ve full-stack ürünler geliştirebileceğim yeni fırsatlara açığım.

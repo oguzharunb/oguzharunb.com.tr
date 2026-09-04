@@ -72,8 +72,7 @@ A B2B lead-generation workflow that discovers relevant businesses from public li
 
 ## Contact
 
-- **Email:** [oguzharunb@gmail.com](mailto:oguzharunb@gmail.com)
-- **Phone:** [+90 551 184 0232](tel:+905511840232)
+- **Email:** [iletisim@oguzharunb.com.tr](mailto:iletisim@oguzharunb.com.tr)
 - **LinkedIn:** [linkedin.com/in/oguzharunb](https://www.linkedin.com/in/oguzharunb/)
 - **Portfolio:** [oguzharunb.com.tr](https://oguzharunb.com.tr)
 - **GitHub:** [github.com/oguzharunb](https://github.com/oguzharunb/)
